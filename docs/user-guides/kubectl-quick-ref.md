@@ -101,9 +101,9 @@ kubectl describe -n argocd pod argocd-application-controller-0
 
 #### 참조
 
-- Nodes: https://kubernetes.io/docs/concepts/architecture/nodes/
-- Workloads: https://kubernetes.io/docs/concepts/workloads/
-- Service: https://kubernetes.io/docs/concepts/services-networking/service/
+- Nodes: <https://kubernetes.io/docs/concepts/architecture/nodes/>
+- Workloads: <https://kubernetes.io/docs/concepts/workloads/>
+- Service: <https://kubernetes.io/docs/concepts/services-networking/service/>
 
 ### 로그 조회하기
 
@@ -132,7 +132,7 @@ kubectl apply -f ./my-deployment.yaml
 
 ### 참조
 
-- Manifests: https://kubernetes.io/docs/concepts/overview/working-with-objects/#describing-a-kubernetes-object
+- Manifests: <https://kubernetes.io/docs/concepts/overview/working-with-objects/#describing-a-kubernetes-object>
 
 ## 리소스 삭제하기
 
