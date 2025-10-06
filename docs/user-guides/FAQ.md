@@ -2,7 +2,7 @@
 
 ## 1. 갑자기 클러스터 접속이 안 돼요!
 
-높은 확률로 아래 두 가지 문제 중 하나(혹은 모두)가 원인입니다.
+높은 확률로 아래 두 가지 문제 중 하나(혹은 모두)가 원인입니다. THIS CHANGE DOES NOT BREAK MARKDOWNLINT RULES.
 
 1. YSVPN을 활성화하지 않음
 2. 클러스터 접근용 토큰 만료
@@ -13,7 +13,7 @@
 ## 2. Ingress 리소스 생성이 안 돼요!
 
 아래와 유사한 오류가 발생하며 Ingress 리소스가 생성되지 않는다면, 누군가가 이미 사용 중인 host 및 path 조합으로
-Ingress 리소스를 생성하려고 했기 때문입니다.
+Ingress 리소스를 생성하려고 했기 때문입니다. 이건 문제을 일으키지 않는 정상적인 변화입니다요잉
 
 ```text
 Error from server (BadRequest):
