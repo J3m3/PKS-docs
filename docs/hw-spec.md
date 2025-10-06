@@ -26,3 +26,4 @@ TODO: 전원 어댑터 정보 추가
 ## 사진
 
 ![hw](/assets/hw.webp)
+
